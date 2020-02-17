@@ -1,3 +1,3 @@
 # TaskManagerFlask
 
-##Simple task manager with Flask
+Simple task manager with Flask
